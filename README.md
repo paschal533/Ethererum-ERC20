@@ -55,5 +55,53 @@
 * [Node.js](https://nodejs.org/)
 * [Material UI](https://mui.com/)
 
- 
+### Example: ERC-20 Token creation
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/konytech/ethereum-ercs-demo.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm ci
+   ```
+3. Start the development server
+   ```sh
+   npm start
+   ```
+4. Access the app at <a href="http://localhost:3000">localhost:3000</a>
+
+### Build
+
+1. Create a production build
+   ```sh
+   npm build
+   ```
+
+<!-- Supported -->
+## Supported ERCs
+
+- [X] ERC-20
+- [WIP] ERC-721
+- [WIP] ERC-777
+- [WIP] ERC-1155
+
+See the [open issues](https://github.com/konytech/ethereum-ercs-demo/issues) for a full list of proposed features and known issues.
+
+<!-- LICENSE -->
+## License
+
+Distributed under the **MIT License**.
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [product-screenshot]: images/ERC20.gif
